@@ -1,2 +1,3 @@
 x = ["apple", "banana", "cherry"]
-print(list(x))
+print(type(x))
+list
