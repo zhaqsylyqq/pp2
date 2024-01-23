@@ -1,2 +1,3 @@
 x = ("apple", "banana", "cherry")
-print(tuple(x))
+print(type(x))
+tuple
