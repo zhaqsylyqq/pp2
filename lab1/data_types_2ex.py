@@ -1,2 +1,3 @@
 x = "Hello World"
-print(str(x))
+print(type(x))
+str
