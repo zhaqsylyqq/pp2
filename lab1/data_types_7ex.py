@@ -1,2 +1,3 @@
 x = True
-print(bool(x))
+print(type(x))
+bool
